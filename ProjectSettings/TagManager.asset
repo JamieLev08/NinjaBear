@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShowOnPause
+  - Pickup
+  - Test_Object
+  - Undetectable
+  - wall
+  - Wall_flip
+  - enemy
+  - EnterLevel2
+  - Enter-Easter_Egg
+  - Spawn_Location
+  - Coin
+  - Enter-Easter_Egg_2
+  - Enter_Level_2
+  - Enter_Level_1
+  - Water_death
+  - Enter_Level_1_Tutorial
+  - Enter_2nd
+  - Enter_level_3
+  - GM
+  - Space_death
+  - Enter_EasterEgg_3
+  - end
+  - Teary
+  - Pawl
+  - Nafurn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall_flip
+  - Floor
+  - Player
+  - Test_Object
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3712206797
+    locked: 0
+  - name: Player
+    uniqueID: 1740333487
+    locked: 0
+  - name: View
+    uniqueID: 2944816427
+    locked: 0
